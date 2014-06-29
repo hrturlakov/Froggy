@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frog-SimpleConsoleGame", "Frog-SimpleConsoleGame\Frog-SimpleConsoleGame.csproj", "{8FD045BD-2438-481F-9958-69439E102F0A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs27
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Frog-SimpleConsoleGame\\Frog-SimpleConsoleGame.csproj
+		SccProjectName1 = Frog-SimpleConsoleGame
+		SccLocalPath1 = Frog-SimpleConsoleGame
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD045BD-2438-481F-9958-69439E102F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD045BD-2438-481F-9958-69439E102F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD045BD-2438-481F-9958-69439E102F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD045BD-2438-481F-9958-69439E102F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

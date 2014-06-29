@@ -1,0 +1,10 @@
+C:\Users\sony\Desktop\Frog\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe.config
+D:\TelerikAcademy\Projects\Team Work C#2\Frog\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe.config
+D:\TelerikAcademy\Projects\Team Work C#2\Frog\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe
+D:\TelerikAcademy\Projects\Team Work C#2\Frog\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.pdb
+D:\TelerikAcademy\Projects\Team Work C#2\Frog\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.exe
+D:\TelerikAcademy\Projects\Team Work C#2\Frog\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.pdb
+D:\TelerikAcademy\Projects\Team Work C#2\Frog\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.csprojResolveAssemblyReference.cache
+C:\Users\IceSkater\Documents\GitHub\Froggy\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe.config
+C:\Users\IceSkater\Documents\GitHub\Froggy\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.exe
+C:\Users\IceSkater\Documents\GitHub\Froggy\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.pdb

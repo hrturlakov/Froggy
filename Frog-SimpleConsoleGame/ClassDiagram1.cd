@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Frog_SimpleConsoleGame.Classes.Car" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.MovingObject" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAAAAAAAAEAACABAAAgAAABAAAAAAAAA=</HashCode>
+      <FileName>Classes\MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.PoliceCar" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAAAAAAAAAACAAAgAIAAAABAAAAAAAAA=</HashCode>
+      <FileName>Classes\PoliceCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.Tree" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAEAAAAAAAAEAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Classes\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.DrawingScreen" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAABQAABAAAgAAAAAAAAAAAQAAAQAA=</HashCode>
+      <FileName>Classes\DrawingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.MainProgram" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAEBA=</HashCode>
+      <FileName>MainProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.StaticObject" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\StaticObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.Island" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Island.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.FrogHome" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FrogHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.Frog" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAQAAAAAAAAAAAAAAAQAAAAAACAAAAAg=</HashCode>
+      <FileName>Classes\Frog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.Bus" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAAAAACAAAABAAAAAAACAABAAAAAAAAA=</HashCode>
+      <FileName>Classes\Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.Truck" Collapsed="true">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAAAAEAAAEAAAAAAAQAAAABAAAAAAAAA=</HashCode>
+      <FileName>Classes\Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frog_SimpleConsoleGame.Cabrio" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIABAIAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cabrio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
